@@ -1,0 +1,353 @@
+LHD,Period,Per cent,LL 95% CI,UL 95% CI
+Sydney LHD,2002,48.1,44.4,51.8
+Sydney LHD,2003,49.2,45.3,53
+Sydney LHD,2004,50.9,46.6,55.3
+Sydney LHD,2005,55.1,50.7,59.5
+Sydney LHD,2006,52.7,47.7,57.8
+Sydney LHD,2007,49.5,44.3,54.8
+Sydney LHD,2008,55.7,50.5,60.9
+Sydney LHD,2009,54.8,50.1,59.5
+Sydney LHD,2010,53.9,48.3,59.5
+Sydney LHD,2011,50.9,46.4,55.4
+Sydney LHD,2012,58.5,53.7,63.3
+Sydney LHD,2013,52.1,48,56.2
+Sydney LHD,2014,55,50.6,59.4
+Sydney LHD,2015,51.4,46.7,56
+Sydney LHD,2016,46.3,41.9,50.8
+Sydney LHD,2017,43.6,39.1,48
+Sydney LHD,2018,39.4,34.8,44
+Sydney LHD,2019,41.4,36.3,46.4
+Sydney LHD,2020,40.9,35,46.9
+Sydney LHD,2021,38.3,34.2,42.4
+Sydney LHD,2022,36.9,33,40.8
+Sydney LHD,2023,38.8,34.6,43.1
+South Western Sydney LHD,2002,43.7,39.7,47.8
+South Western Sydney LHD,2003,48.5,44.5,52.4
+South Western Sydney LHD,2004,39.9,35.4,44.4
+South Western Sydney LHD,2005,46.6,42.5,50.6
+South Western Sydney LHD,2006,51.5,46.9,56.1
+South Western Sydney LHD,2007,52.1,47.4,56.8
+South Western Sydney LHD,2008,49.9,45.4,54.5
+South Western Sydney LHD,2009,50.4,46.3,54.4
+South Western Sydney LHD,2010,57.1,53,61.3
+South Western Sydney LHD,2011,49.4,45,53.7
+South Western Sydney LHD,2012,55.3,47.4,63.1
+South Western Sydney LHD,2013,52.2,48.4,55.9
+South Western Sydney LHD,2014,52.2,48.1,56.4
+South Western Sydney LHD,2015,48,42.4,53.6
+South Western Sydney LHD,2016,48.6,44.5,52.7
+South Western Sydney LHD,2017,45.8,41.6,49.9
+South Western Sydney LHD,2018,35.8,31.7,39.9
+South Western Sydney LHD,2019,35.5,31,40.1
+South Western Sydney LHD,2020,37.7,32.6,42.8
+South Western Sydney LHD,2021,38.3,34.3,42.3
+South Western Sydney LHD,2022,32.4,28.4,36.4
+South Western Sydney LHD,2023,37.1,32.9,41.2
+South Eastern Sydney LHD,2002,48.1,44,52.2
+South Eastern Sydney LHD,2003,49.9,45.8,54.1
+South Eastern Sydney LHD,2004,49.2,44,54.4
+South Eastern Sydney LHD,2005,52.7,48.7,56.8
+South Eastern Sydney LHD,2006,53.8,48.8,58.8
+South Eastern Sydney LHD,2007,52.6,47.3,57.8
+South Eastern Sydney LHD,2008,62,57.2,66.8
+South Eastern Sydney LHD,2009,60.8,56,65.5
+South Eastern Sydney LHD,2010,57.6,51.8,63.4
+South Eastern Sydney LHD,2011,55.6,50.9,60.4
+South Eastern Sydney LHD,2012,56.7,51.2,62.1
+South Eastern Sydney LHD,2013,52.4,47.9,56.8
+South Eastern Sydney LHD,2014,55.3,50.8,59.8
+South Eastern Sydney LHD,2015,50.3,44.7,55.9
+South Eastern Sydney LHD,2016,47.5,43.5,51.6
+South Eastern Sydney LHD,2017,48.5,44.4,52.6
+South Eastern Sydney LHD,2018,43.2,38.9,47.5
+South Eastern Sydney LHD,2019,45.2,40.5,49.9
+South Eastern Sydney LHD,2020,37.8,33.3,42.4
+South Eastern Sydney LHD,2021,39.7,35.4,43.9
+South Eastern Sydney LHD,2022,41.6,37.4,45.7
+South Eastern Sydney LHD,2023,45.5,41.1,50
+Illawarra Shoalhaven LHD,2002,47.8,43.8,51.7
+Illawarra Shoalhaven LHD,2003,49.1,45.2,53
+Illawarra Shoalhaven LHD,2004,46.7,41.9,51.5
+Illawarra Shoalhaven LHD,2005,51.7,45.6,57.9
+Illawarra Shoalhaven LHD,2006,60.2,54,66.4
+Illawarra Shoalhaven LHD,2007,54.5,48,61
+Illawarra Shoalhaven LHD,2008,61,55.5,66.4
+Illawarra Shoalhaven LHD,2009,61.2,55.6,66.8
+Illawarra Shoalhaven LHD,2010,54.5,48.7,60.3
+Illawarra Shoalhaven LHD,2011,52.6,48,57.1
+Illawarra Shoalhaven LHD,2012,52.1,46.9,57.4
+Illawarra Shoalhaven LHD,2013,57,52,61.9
+Illawarra Shoalhaven LHD,2014,53.5,47.9,59.2
+Illawarra Shoalhaven LHD,2015,54.5,47.9,61.1
+Illawarra Shoalhaven LHD,2016,48.8,43.2,54.4
+Illawarra Shoalhaven LHD,2017,47.9,42.2,53.7
+Illawarra Shoalhaven LHD,2018,42.7,37.2,48.1
+Illawarra Shoalhaven LHD,2019,43.4,37.2,49.7
+Illawarra Shoalhaven LHD,2020,37.9,30.5,45.4
+Illawarra Shoalhaven LHD,2021,44.5,39.5,49.5
+Illawarra Shoalhaven LHD,2022,43.4,38.4,48.4
+Illawarra Shoalhaven LHD,2023,36.4,31.8,41
+Western Sydney LHD,2002,47.8,43.6,52
+Western Sydney LHD,2003,42.5,38.6,46.4
+Western Sydney LHD,2004,47.6,43,52.2
+Western Sydney LHD,2005,46.4,42.8,50.1
+Western Sydney LHD,2006,49.7,45.2,54.2
+Western Sydney LHD,2007,54.4,49.7,59
+Western Sydney LHD,2008,52.8,48.3,57.3
+Western Sydney LHD,2009,56.7,52.7,60.8
+Western Sydney LHD,2010,53.8,49.6,58
+Western Sydney LHD,2011,49.4,45,53.9
+Western Sydney LHD,2012,50.2,43.6,56.9
+Western Sydney LHD,2013,51.1,47.3,54.9
+Western Sydney LHD,2014,53.4,49.4,57.4
+Western Sydney LHD,2015,47.7,40.3,55.1
+Western Sydney LHD,2016,42.7,38.8,46.6
+Western Sydney LHD,2017,43.4,39.4,47.4
+Western Sydney LHD,2018,40.2,36.1,44.2
+Western Sydney LHD,2019,36.7,32.1,41.3
+Western Sydney LHD,2020,42.6,37.8,47.3
+Western Sydney LHD,2021,39.5,34.7,44.2
+Western Sydney LHD,2022,32.1,28,36.2
+Western Sydney LHD,2023,31.7,28,35.5
+Nepean Blue Mountains LHD,2002,41.1,37.2,44.9
+Nepean Blue Mountains LHD,2003,43.9,39.9,47.8
+Nepean Blue Mountains LHD,2004,42.4,37.8,46.9
+Nepean Blue Mountains LHD,2005,52.6,47.4,57.9
+Nepean Blue Mountains LHD,2006,49.5,42.4,56.5
+Nepean Blue Mountains LHD,2007,52.1,45.7,58.4
+Nepean Blue Mountains LHD,2008,47.8,41.6,54
+Nepean Blue Mountains LHD,2009,57,51.2,62.8
+Nepean Blue Mountains LHD,2010,54,47.5,60.5
+Nepean Blue Mountains LHD,2011,51.7,46.6,56.9
+Nepean Blue Mountains LHD,2012,53.7,48.9,58.6
+Nepean Blue Mountains LHD,2013,48.3,43.1,53.6
+Nepean Blue Mountains LHD,2014,49.7,44,55.4
+Nepean Blue Mountains LHD,2015,45.5,38.4,52.7
+Nepean Blue Mountains LHD,2016,49.2,43.2,55.2
+Nepean Blue Mountains LHD,2017,47.9,42.2,53.7
+Nepean Blue Mountains LHD,2018,41.3,35.4,47.2
+Nepean Blue Mountains LHD,2019,34.2,27.7,40.8
+Nepean Blue Mountains LHD,2020,32.7,25.9,39.6
+Nepean Blue Mountains LHD,2021,37.7,32.7,42.8
+Nepean Blue Mountains LHD,2022,35.7,30.6,40.8
+Nepean Blue Mountains LHD,2023,34.9,29.9,39.8
+Northern Sydney LHD,2002,50.2,46,54.4
+Northern Sydney LHD,2003,48.7,44.7,52.6
+Northern Sydney LHD,2004,53.4,48.2,58.6
+Northern Sydney LHD,2005,54.9,51.1,58.7
+Northern Sydney LHD,2006,59.4,55.1,63.6
+Northern Sydney LHD,2007,62.9,58.3,67.5
+Northern Sydney LHD,2008,59.7,55.3,64.2
+Northern Sydney LHD,2009,61,57,65
+Northern Sydney LHD,2010,59.9,55.8,64.1
+Northern Sydney LHD,2011,52.5,47.1,57.8
+Northern Sydney LHD,2012,53.3,48.2,58.4
+Northern Sydney LHD,2013,53.8,50,57.6
+Northern Sydney LHD,2014,54.8,50.8,58.9
+Northern Sydney LHD,2015,47.7,41.5,54
+Northern Sydney LHD,2016,51,46.9,55
+Northern Sydney LHD,2017,49.5,45.3,53.6
+Northern Sydney LHD,2018,47.9,43.8,51.9
+Northern Sydney LHD,2019,47.4,42.8,52.1
+Northern Sydney LHD,2020,42.7,37.9,47.4
+Northern Sydney LHD,2021,45.3,40.6,50
+Northern Sydney LHD,2022,44.2,40.1,48.3
+Northern Sydney LHD,2023,40,35.8,44.1
+Central Coast LHD,2002,48.5,44.2,52.9
+Central Coast LHD,2003,48.6,44.4,52.8
+Central Coast LHD,2004,47.1,42.3,52
+Central Coast LHD,2005,49.8,44.1,55.5
+Central Coast LHD,2006,58.4,51.9,64.9
+Central Coast LHD,2007,55,46,64
+Central Coast LHD,2008,58.9,52.2,65.6
+Central Coast LHD,2009,51.6,45.2,58
+Central Coast LHD,2010,53.5,47.1,60
+Central Coast LHD,2011,44.5,39.5,49.4
+Central Coast LHD,2012,54,48.8,59.3
+Central Coast LHD,2013,47.7,42.3,53
+Central Coast LHD,2014,52.3,45.7,59
+Central Coast LHD,2015,42.6,36.1,49.1
+Central Coast LHD,2016,48.4,41.8,54.9
+Central Coast LHD,2017,45.5,39,52
+Central Coast LHD,2018,40.1,33.5,46.7
+Central Coast LHD,2019,36.3,29.8,42.9
+Central Coast LHD,2020,32.8,26.2,39.4
+Central Coast LHD,2021,46.1,40.4,51.8
+Central Coast LHD,2022,37.2,32.1,42.4
+Central Coast LHD,2023,37.2,32,42.4
+Hunter New England LHD,2002,42,39,45
+Hunter New England LHD,2003,45.4,42.7,48.2
+Hunter New England LHD,2004,44.3,41.4,47.3
+Hunter New England LHD,2005,51.1,48.2,54.1
+Hunter New England LHD,2006,52.2,48.6,55.7
+Hunter New England LHD,2007,52.6,48.7,56.4
+Hunter New England LHD,2008,56,52.3,59.6
+Hunter New England LHD,2009,56.7,53.4,59.9
+Hunter New England LHD,2010,53.8,50.1,57.4
+Hunter New England LHD,2011,48.1,43,53.1
+Hunter New England LHD,2012,48.7,41.5,56
+Hunter New England LHD,2013,51.8,47.7,55.9
+Hunter New England LHD,2014,53.5,49.2,57.8
+Hunter New England LHD,2015,47.9,42.2,53.7
+Hunter New England LHD,2016,45.9,41.5,50.3
+Hunter New England LHD,2017,44.5,40.4,48.6
+Hunter New England LHD,2018,38.3,34.2,42.4
+Hunter New England LHD,2019,38.7,34.4,43
+Hunter New England LHD,2020,40.2,35.1,45.4
+Hunter New England LHD,2021,40.7,36.6,44.9
+Hunter New England LHD,2022,37.4,33.2,41.6
+Hunter New England LHD,2023,36.6,32,41.2
+Northern NSW LHD,2002,50.1,46,54.3
+Northern NSW LHD,2003,48.9,45.1,52.7
+Northern NSW LHD,2004,45.8,41.6,49.9
+Northern NSW LHD,2005,58.2,54.5,62
+Northern NSW LHD,2006,55.2,50.2,60.1
+Northern NSW LHD,2007,56.8,51.8,61.8
+Northern NSW LHD,2008,54.6,49.6,59.6
+Northern NSW LHD,2009,59.6,55.5,63.7
+Northern NSW LHD,2010,59.7,55.7,63.6
+Northern NSW LHD,2011,53.2,48.6,57.8
+Northern NSW LHD,2012,53.4,48.3,58.4
+Northern NSW LHD,2013,55.2,49.4,61
+Northern NSW LHD,2014,60,53.8,66.1
+Northern NSW LHD,2015,43.9,37.4,50.5
+Northern NSW LHD,2016,49.6,42.4,56.8
+Northern NSW LHD,2017,49.4,42.8,56
+Northern NSW LHD,2018,41.3,35.1,47.6
+Northern NSW LHD,2019,47,39.5,54.5
+Northern NSW LHD,2020,49.7,40.8,58.6
+Northern NSW LHD,2021,40.1,34.9,45.2
+Northern NSW LHD,2022,40.5,34.9,46.2
+Northern NSW LHD,2023,42.2,37,47.3
+Mid North Coast LHD,2002,48.1,43.1,53.1
+Mid North Coast LHD,2003,53.9,49,58.8
+Mid North Coast LHD,2004,50.4,44.8,56.1
+Mid North Coast LHD,2005,54.4,49.9,58.8
+Mid North Coast LHD,2006,50.4,44.7,56.1
+Mid North Coast LHD,2007,49.3,43.4,55.3
+Mid North Coast LHD,2008,56.9,51.6,62.3
+Mid North Coast LHD,2009,58.8,53.4,64.1
+Mid North Coast LHD,2010,55.9,50.8,61
+Mid North Coast LHD,2011,51.3,46.7,55.9
+Mid North Coast LHD,2012,53.2,47.3,59.1
+Mid North Coast LHD,2013,53.1,46.7,59.5
+Mid North Coast LHD,2014,53.1,46.4,59.8
+Mid North Coast LHD,2015,60.2,51.7,68.7
+Mid North Coast LHD,2016,50.9,43.7,58
+Mid North Coast LHD,2017,54.8,47.8,61.9
+Mid North Coast LHD,2018,43.5,36.5,50.5
+Mid North Coast LHD,2019,38,29.8,46.2
+Mid North Coast LHD,2020,49.8,41.4,58.3
+Mid North Coast LHD,2021,50.2,44.1,56.3
+Mid North Coast LHD,2022,39.6,33.5,45.6
+Mid North Coast LHD,2023,42.2,36.2,48.2
+Southern NSW LHD,2002,46.4,42.2,50.6
+Southern NSW LHD,2003,43.8,39.5,48.1
+Southern NSW LHD,2004,46.9,41.9,51.8
+Southern NSW LHD,2005,49.4,44.3,54.6
+Southern NSW LHD,2006,48.9,42.6,55.2
+Southern NSW LHD,2007,50.6,44,57.1
+Southern NSW LHD,2008,55.1,48.6,61.5
+Southern NSW LHD,2009,53.4,47.9,59
+Southern NSW LHD,2010,61.4,55.4,67.4
+Southern NSW LHD,2011,47.9,43,52.9
+Southern NSW LHD,2012,56.3,49.8,62.7
+Southern NSW LHD,2013,54.3,47.6,61
+Southern NSW LHD,2014,58.2,51,65.3
+Southern NSW LHD,2015,49.4,43.1,55.7
+Southern NSW LHD,2016,48,40.2,55.7
+Southern NSW LHD,2017,49.4,42,56.8
+Southern NSW LHD,2018,36.9,30.6,43.2
+Southern NSW LHD,2019,43.2,35.5,50.9
+Southern NSW LHD,2020,39.7,30.7,48.7
+Southern NSW LHD,2021,39.2,33.4,45.1
+Southern NSW LHD,2022,34.7,29,40.4
+Southern NSW LHD,2023,40.8,35.1,46.4
+Murrumbidgee LHD,2002,43.1,39.1,47.2
+Murrumbidgee LHD,2003,40.3,36.6,44.1
+Murrumbidgee LHD,2004,42.2,37.6,46.7
+Murrumbidgee LHD,2005,47.7,43.8,51.7
+Murrumbidgee LHD,2006,48.7,43.4,53.9
+Murrumbidgee LHD,2007,52.5,47.4,57.6
+Murrumbidgee LHD,2008,50.3,45,55.6
+Murrumbidgee LHD,2009,49.4,44.9,54
+Murrumbidgee LHD,2010,51.3,46.6,56.1
+Murrumbidgee LHD,2011,45.2,40.9,49.5
+Murrumbidgee LHD,2012,53.6,46.9,60.3
+Murrumbidgee LHD,2013,42.5,37.2,47.8
+Murrumbidgee LHD,2014,53.5,47.7,59.2
+Murrumbidgee LHD,2015,42,36.7,47.3
+Murrumbidgee LHD,2016,44.7,38.1,51.3
+Murrumbidgee LHD,2017,41.7,35.3,48
+Murrumbidgee LHD,2018,40.5,34.6,46.4
+Murrumbidgee LHD,2019,44,36.7,51.3
+Murrumbidgee LHD,2020,42.4,34.1,50.6
+Murrumbidgee LHD,2021,35.1,29.8,40.4
+Murrumbidgee LHD,2022,36.9,31.3,42.4
+Murrumbidgee LHD,2023,30.1,24.9,35.4
+Western NSW LHD,2002,40.1,37.3,42.8
+Western NSW LHD,2003,41.8,39,44.5
+Western NSW LHD,2004,37.9,34.9,40.8
+Western NSW LHD,2005,48.6,45.4,51.7
+Western NSW LHD,2006,47.5,43.3,51.6
+Western NSW LHD,2007,50.1,45.7,54.5
+Western NSW LHD,2008,50.6,46.6,54.6
+Western NSW LHD,2009,53.2,49.6,56.8
+Western NSW LHD,2010,50.8,46.9,54.8
+Western NSW LHD,2011,46.9,41.3,52.5
+Western NSW LHD,2012,50.1,44.5,55.6
+Western NSW LHD,2013,50.3,44.8,55.8
+Western NSW LHD,2014,50.8,44.3,57.4
+Western NSW LHD,2015,47.9,41.9,54
+Western NSW LHD,2016,45,37.7,52.2
+Western NSW LHD,2017,46.2,39.9,52.5
+Western NSW LHD,2018,42.6,35.4,49.8
+Western NSW LHD,2019,35.2,28.2,42.1
+Western NSW LHD,2020,43.9,34.5,53.2
+Western NSW LHD,2021,37.9,31.9,43.9
+Western NSW LHD,2022,37.2,31.4,43
+Western NSW LHD,2023,36.2,30.5,41.9
+Far West LHD,2002,39.4,34.5,44.2
+Far West LHD,2003,37.3,32.8,41.9
+Far West LHD,2004,37.2,32.4,42
+Far West LHD,2005,37.9,29.4,46.5
+Far West LHD,2006,50.3,39.3,61.4
+Far West LHD,2007,49.9,37.5,62.4
+Far West LHD,2008,54.2,42.2,66.2
+Far West LHD,2009,36.6,26.4,46.9
+Far West LHD,2010,48.6,35.9,61.2
+Far West LHD,2011,40.7,36.2,45.3
+Far West LHD,2012,40.6,34.2,47
+Far West LHD,2013,46.7,38.2,55.1
+Far West LHD,2014,51.1,42.8,59.5
+Far West LHD,2015,37.8,31.2,44.3
+Far West LHD,2016,39.7,31.2,48.1
+Far West LHD,2017,30.4,23.7,37.2
+Far West LHD,2018,34,25.6,42.3
+Far West LHD,2019,30.4,23.8,37
+Far West LHD,2020,38.9,26.6,51.2
+Far West LHD,2021,37.3,27.6,47.1
+Far West LHD,2022,27.4,20.7,34
+Far West LHD,2023,26.9,17.3,36.5
+All LHDs,2002,46.2,45,47.4
+All LHDs,2003,46.9,45.8,48.1
+All LHDs,2004,46.5,45.1,47.9
+All LHDs,2005,51.2,50,52.4
+All LHDs,2006,53.2,51.7,54.6
+All LHDs,2007,53.8,52.2,55.3
+All LHDs,2008,55.6,54.2,57
+All LHDs,2009,56.4,55.1,57.7
+All LHDs,2010,55.7,54.3,57.1
+All LHDs,2011,50.4,48.9,51.9
+All LHDs,2012,53.4,51.5,55.3
+All LHDs,2013,51.8,50.6,53.1
+All LHDs,2014,53.9,52.5,55.3
+All LHDs,2015,48.4,46.6,50.3
+All LHDs,2016,47.3,46,48.7
+All LHDs,2017,46.4,45,47.8
+All LHDs,2018,40.9,39.6,42.3
+All LHDs,2019,40.6,39,42.1
+All LHDs,2020,40.3,38.6,42
+All LHDs,2021,40.6,39.2,42
+All LHDs,2022,37.7,36.3,39
+All LHDs,2023,37.8,36.5,39.2
