@@ -66,12 +66,20 @@ I collected data from:
 
 ---
 
+
 ## Typical Dashboards
 
-- Overview of Chronic Disease across different states  
-- Risk factors_Smoking   Vaping  
-- Risk factors_Fruit   Vegetable Intake  
-- Disparities in Healthcare System  
+### Overview of Chronic Disease across different states
+![Overview Dashboard](Dashboard Images/Overview of Chronic Disease across different states.png)
+
+### Risk Factors – Smoking & Vaping
+![Smoking and Vaping](images/risk_factors_smoking_vaping.png)
+
+### Risk Factors – Fruit & Vegetable Intake
+![Diet Risk Factors](images/risk_factors_diet.png)
+
+### Disparities in Healthcare System
+![Healthcare Disparities](images/healthcare_disparities.png)
 
 ---
 
