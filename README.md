@@ -70,16 +70,29 @@ I collected data from:
 ## Typical Dashboards
 
 ### Overview of Chronic Disease across different states
-![Overview Dashboard](Dashboard Images/Overview of Chronic Disease across different states.png)
+![Overview Dashboard](Dashboard%20Images/Overview%20of%20Chronic%20Disease%20across%20different%20states.png)
+
+### Cardiovascular Diseases
+![Cardiovascular Diseases](Dashboard%20Images/Cardiovascular%20Diseaseas.png)
 
 ### Risk Factors – Smoking & Vaping
-![Smoking and Vaping](images/risk_factors_smoking_vaping.png)
+![Smoking and Vaping](Dashboard%20Images/Risk%20factors_Smoking%20%26%20Vapin.png)
+
+### Risk Factors – Alcohol Consumption Over Time
+![Alcohol Consumption Over Time](Dashboard%20Images/Risk%20factors_Alcohol%20Consumption%20overtime.png)
+
+### Risk Factors – Alcohol Consumption and Correlation with Hospitalisations
+![Alcohol and Hospitalisations](Dashboard%20Images/Risk%20factors_Alcohol%20consumption%20and%20its%20correlation%20with%20hospitalisations.png)
 
 ### Risk Factors – Fruit & Vegetable Intake
-![Diet Risk Factors](images/risk_factors_diet.png)
+![Fruit & Vegetable Intake](Dashboard%20Images/Risk%20factors_Fruit%20%26%20Vegetable%20Intake%20.png)
+
+### Risk Factors – Insufficient Physical Activity
+![Insufficient Physical Activity](Dashboard%20Images/Risk%20factors_Insufficient%20physical%20activity.png)
 
 ### Disparities in Healthcare System
-![Healthcare Disparities](images/healthcare_disparities.png)
+![Healthcare Disparities](Dashboard%20Images/Disparities%20in%20Healthcare%20System.png)
+
 
 ---
 
